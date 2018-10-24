@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.57d46b7aee7674f0a7591031a3a4ea8b.js"
+  "/precache-manifest.0d799543db97a9b7cfe8e0f38964906b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vfire"});
